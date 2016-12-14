@@ -1,0 +1,31 @@
+body{
+  background-color: #9A6FAB;#78C247
+  color: #2E033F;
+  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sana-serif;
+  padding: 0 40px 20px 40px;
+}
+
+header{
+  background-image: url(../images/logo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100px;
+  text-indent: -9999px;
+  border-radius: 9px;
+}
+
+main{
+  text-align: center;
+}
+
+a{ text-decoration: none; }
+a:link{ color: #9DE071; }
+a:visited{ color: #77C247; }
+a:hover, a:focus { color: #9DE071; }
+
+footer{
+  clear: both;
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
+}
